@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981263034575",
+    "project_id": "fireb-73239",
+    "storage_bucket": "fireb-73239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981263034575:android:a38e7a61ab9f4c0e2f2fba",
+        "android_client_info": {
+          "package_name": "com.example.laba3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981263034575-0kfdn1p5gqep49gd8vjnfkid3ll19dr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5-0UZAGdLorCabhi0FI9NBGfmTJuhnWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981263034575-0kfdn1p5gqep49gd8vjnfkid3ll19dr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

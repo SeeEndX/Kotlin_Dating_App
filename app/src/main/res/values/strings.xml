@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">laba3</string>
+    <string name="profile" />
+    <string name="home" />
+    <string name="chats" />
+</resources>
